@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reacTube/static/css/main.ffd2785b.chunk.css",
+    "main.js": "/reacTube/static/js/main.199ddda1.chunk.js",
+    "main.js.map": "/reacTube/static/js/main.199ddda1.chunk.js.map",
+    "runtime-main.js": "/reacTube/static/js/runtime-main.1096ae72.js",
+    "runtime-main.js.map": "/reacTube/static/js/runtime-main.1096ae72.js.map",
+    "static/css/2.150d169a.chunk.css": "/reacTube/static/css/2.150d169a.chunk.css",
+    "static/js/2.790de049.chunk.js": "/reacTube/static/js/2.790de049.chunk.js",
+    "static/js/2.790de049.chunk.js.map": "/reacTube/static/js/2.790de049.chunk.js.map",
+    "static/js/3.1e0512c5.chunk.js": "/reacTube/static/js/3.1e0512c5.chunk.js",
+    "static/js/3.1e0512c5.chunk.js.map": "/reacTube/static/js/3.1e0512c5.chunk.js.map",
+    "index.html": "/reacTube/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/reacTube/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.ffd2785b.chunk.css.map": "/reacTube/static/css/main.ffd2785b.chunk.css.map",
+    "static/js/2.790de049.chunk.js.LICENSE.txt": "/reacTube/static/js/2.790de049.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1096ae72.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.790de049.chunk.js",
+    "static/css/main.ffd2785b.chunk.css",
+    "static/js/main.199ddda1.chunk.js"
+  ]
+}
