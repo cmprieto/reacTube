@@ -1,10 +1,8 @@
-import React, { useState, useContext, Component } from "react";
+import React, { useState, useContext } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Button, Form, FormControl, Navbar } from "react-bootstrap";
-import { Youtube } from "../youtube";
+import { Button, Form, Navbar } from "react-bootstrap";
+
 import { AppContext } from "../application/provider";
-
-
 
 const Searchbar = () => {
   const [state, setState] = useContext(AppContext);

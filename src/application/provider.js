@@ -1,7 +1,7 @@
 import { createContext, useState } from "react";
 
-const MyProvider = (props) => {
-  const [state, setState] = useState({q:"U2",videoSeleccion: 0});  // inicializo el estado del objeto con una propiedad de búsqueda q pq sino toma undefined
+const MyProvider = (props) => {   // ESTADO GLOBAL: 1 OBJETOS CON 2 ESTADOS GLOBALES
+  const [state, setState] = useState({q:"U2",videoSeleccion: 0});  // inicializo el estado del objeto con una propiedad de búsqueda pq sino toma undefined
   
 
   return (

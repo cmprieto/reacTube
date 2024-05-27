@@ -24,10 +24,10 @@ const Youtube = () => {
       ) 
       .then((res) => {
         
-        setState({...state,videos: res.data.items});
-        /* console.log(res.data.items); */
+        setState({...state,videos: res.data.items});   // AÑADIMOS UN ARRAY DE OBJETOS AL ESTADO GLOBAL MEDIANTE setState({...state, xxx}) del useContext creado para modificar el valor
+         console.log(res.data.items); 
       });
-  }, [state.q]);
+  }, [state.q]);   // al variar valor de busqueda (state.q) se vuelve a lanzar api
 
 
   return (

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacTube/static/css/main.de18c19f.css",
+    "main.js": "/reacTube/static/js/main.6b095697.js",
+    "static/js/488.cd50e6d7.chunk.js": "/reacTube/static/js/488.cd50e6d7.chunk.js",
+    "index.html": "/reacTube/index.html",
+    "main.de18c19f.css.map": "/reacTube/static/css/main.de18c19f.css.map",
+    "main.6b095697.js.map": "/reacTube/static/js/main.6b095697.js.map",
+    "488.cd50e6d7.chunk.js.map": "/reacTube/static/js/488.cd50e6d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de18c19f.css",
+    "static/js/main.6b095697.js"
+  ]
+}
